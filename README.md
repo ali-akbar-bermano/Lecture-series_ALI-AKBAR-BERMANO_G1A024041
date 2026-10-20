@@ -1,1 +1,5 @@
-# Lecture-series_ALI-AKBAR-BERMANO_G1A024041
+# Tugas Lecture-series
+
+Nama   : Ali Akbar Bermano
+NPM    : G1A024041
+Kelas  : A
